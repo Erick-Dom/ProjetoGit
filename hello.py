@@ -1,1 +1,1 @@
-PRINT("Aula de github")
+print("Aula de github")
